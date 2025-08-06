@@ -9,8 +9,12 @@
         <module name="Lacture-5-SRPViolation" />
         <module name="OCPFollowed" />
         <module name="OCPViolation" />
+        <module name="LSP-Violation" />
         <module name="Lacture-5-SRPResolution" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

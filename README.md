@@ -1,1 +1,2 @@
 Lacture-5-SRPViolation: This files demonstrates the violation of Single Responsibility Principle. As the same class is handeling 3 responsibility of Calculating the Cart Value, Printing the Invoice and Saving to the database.
+Lacture-5-SRPResolution: This files demonstrates how to handle the violation of Single Responsibility Principle. As the same class is handeling 3 responsibility of Calculating the Cart Value, Printing the Invoice and Saving to the database. So to resolve this these 3 tasks were segregate to 3 different classes.

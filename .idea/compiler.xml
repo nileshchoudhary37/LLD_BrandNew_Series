@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Lacture-5-SRPViolation" />
         <module name="OCPFollowed" />
+        <module name="LSP-Followed" />
         <module name="OCPViolation" />
         <module name="LSP-Violation" />
         <module name="Lacture-5-SRPResolution" />

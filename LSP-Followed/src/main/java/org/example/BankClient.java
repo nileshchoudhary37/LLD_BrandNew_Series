@@ -3,8 +3,8 @@ package org.example;
 import java.util.List;
 
 public class BankClient {
-    private List<WithdrawableAccount> withdrawableAccounts;
-    private List<DepositOnlyAccount> depositOnlyAccounts;
+    private final List<WithdrawableAccount> withdrawableAccounts;
+    private final List<DepositOnlyAccount> depositOnlyAccounts;
 
     public BankClient(List<WithdrawableAccount> withdrawableAccounts, List<DepositOnlyAccount> depositOnlyAccounts) {
         this.withdrawableAccounts = withdrawableAccounts;

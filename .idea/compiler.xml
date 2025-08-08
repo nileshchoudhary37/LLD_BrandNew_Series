@@ -7,10 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Lacture-5-SRPViolation" />
-        <module name="OCPFollowed" />
         <module name="LSP-Followed" />
-        <module name="OCPViolation" />
         <module name="LSP-Violation" />
+        <module name="DIP-Violation" />
+        <module name="OCPFollowed" />
+        <module name="OCPViolation" />
         <module name="Lacture-5-SRPResolution" />
       </profile>
     </annotationProcessing>

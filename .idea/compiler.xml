@@ -11,6 +11,7 @@
         <module name="LSP-Violation" />
         <module name="DIP-Violation" />
         <module name="OCPFollowed" />
+        <module name="DIP-Followed" />
         <module name="OCPViolation" />
         <module name="Lacture-5-SRPResolution" />
       </profile>

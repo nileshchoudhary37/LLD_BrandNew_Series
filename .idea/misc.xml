@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/LSP-Violation/pom.xml" />
         <option value="$PROJECT_DIR$/LSP-Followed/pom.xml" />
         <option value="$PROJECT_DIR$/DIP-Violation/pom.xml" />
+        <option value="$PROJECT_DIR$/DIP-Followed/pom.xml" />
       </list>
     </option>
   </component>
